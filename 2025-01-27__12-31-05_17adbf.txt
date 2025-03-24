@@ -2,12 +2,7 @@ Code
 to Value.
 Fast
 .
-Enterprise Crowdtesting | Managed Testing Services | QA Enhancement & Enablement
-TRY TEST IO FOR FREE
-Boasting over a decade at the forefront of forging the unique benefits of 'crowd' into a transformative quality engine,
-Test IO
-stands unrivaled in its ability to leverage collective human intelligence for development efficiency and impact.
-With on-demand availability and scalability at its core,
+Enterprise Cavailability and scalability at its core,
 Test IO
 blends deep domain expertise in traditional testing methodologies with cutting-edge advancements in AI technology. This unique combination ensures that Test IO delivers on its mission to empower clients to launch exceptional products, faster, for less.
 With unparalleled on-demand availability and scalability at its core,
