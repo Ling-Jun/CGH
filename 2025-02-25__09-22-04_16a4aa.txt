@@ -79,10 +79,6 @@ CTA programs
 Sector
 Location
 Application deadline
-Boston tech and life sciences
-Life sciences
-Boston
-March 21, 2025 at 11:59PM PST
 Macao Entertainment Technology
 Digital industries and ICT
 Hong Kong
@@ -91,6 +87,10 @@ Pacific Alliance cleantech
 Cleantech
 Mexico
 May 23, 2025 at 11:59PM PST
+Boston tech and life sciences
+Life sciences
+Boston
+Closed
 Singapore Artificial Intelligence in Healthcare
 Life sciences and digital health
 Singapore
@@ -238,4 +238,4 @@ For general questions, contact
 cta-atc@international.gc.ca
 Trade commissioners can help you determine if a CTA is right for your business and which one is the best fit for you.
 Date modified:
-2025-03-24
+2025-03-26
