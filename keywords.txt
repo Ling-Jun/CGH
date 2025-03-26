@@ -15,6 +15,5 @@ announcement
 notice
 extended
 changes
-giuahgjhajhgkhajklghkjahgkjh
 alert
 important
