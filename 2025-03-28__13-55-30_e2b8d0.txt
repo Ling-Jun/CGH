@@ -1,0 +1,298 @@
+Agricultural Clean Technology Program: Research and Innovation Stream: Applicant guide
+Step 1.
+What this program offers
+Step 2.
+Who is eligible
+Step 3.
+How to apply
+Step 4.
+After you apply
+Applicant guide
+Contact information
+Applicant guide
+Purpose of this guide
+This guide will:
+help you determine if you are eligible for contribution funding from Agriculture and Agri-Food Canada (AAFC) under the Agricultural Clean Technology (ACT) Program: Research and Innovation (R&I) Stream
+provide you with instructions and guidelines to assist you in applying for funding
+Please read this guide before submitting a Project Summary form.
+AAFC and the Government of Canada are under no obligation to approve proposed projects.
+Table of contents
+1.0 About the Agricultural Clean Technology Program
+1.1 The Research and Innovation Stream
+1.2 Program priorities and eligible activities
+1.3 Eligible applicants
+1.4 Funding and cost-sharing
+1.5 Application process
+2.0 Expected results and reporting
+3.0 Assessment criteria
+4.0 Other considerations
+4.1 M-30 Act (Quebec only)
+4.2 Intellectual property
+4.3 Official languages
+4.4 Public announcements
+5.0 After you apply
+6.0 Contact information
+Annexes
+Annex A: Cost categories
+Annex B: Application process
+Annex C: How to complete Project Summary form
+1.0 About the Agricultural Clean Technology Program
+As part of the Government of Canada's strengthened climate plan,
+A Healthy Environment and a Healthy Economy
+, the new ACT program aims to create an enabling environment for the development and adoption of clean technology that will help drive the changes required to achieve a low-carbon economy and promote sustainable growth in Canada's agriculture and agri-food sector. The program is divided into 2 streams:
+Research and Innovation Stream
+Supports pre-market innovation, including research, development, demonstration and commercialization activities
+Adoption Stream
+Supports adoption of commercially available clean technologies and processes with a priority given to those that show evidence of reducing greenhouse gas (GHG) emissions, and other environmental co-benefits
+Program funding for the Research and Innovation Stream is $50 million over 7 years, with this stream ending March 31, 2028.
+1.1 The Research and Innovation Stream
+The R&I Stream will support pre-market innovation, including research, development, demonstration, and commercialization activities (as shown in the Innovation Continuum chart) that address 3 priority areas (
+Section 1.2
+) to develop transformative clean technologies and enable the expansion of current technologies.
+Description of image above.
+Innovation Continuum
+The innovation continuum begins with the pre-market activities of basic and applied research, development and demonstration; followed by the commercialization of new technology, including scale up activities; which are all supported under the Research and Innovation Stream. The continuum ends with technology adoption (purchasing and installation) which is supported by the Adoption Stream.
+1.2 Program priorities and eligible activities
+The R&I Stream will prioritize investments in the development and commercialization of clean technologies that are near market-ready and show promise to considerably advance reductions in greenhouse gas emissions compared to what is currently available.
+Support will be prioritized for projects that demonstrate significant potential greenhouse gas emissions reductions through the following 3 priorities:
+Green energy and energy efficiency
+including better management of energy intensive processes and introduction of energy generation.
+Examples include, but are not limited to:
+more efficient lighting, insulation, heating, refrigeration, ventilation
+technologies that help make energy intensive processes more efficient
+development of zero-emissions on-farm equipment and machinery
+energy generation technologies including:
+biodigesters
+heat pumps
+solar panels
+Precision agriculture
+which uses a wide range of technologies to gather and process data for the purpose of guiding targeted actions that improve the sustainability, efficiency and productivity of agricultural operations.
+Examples include, but are not limited to:
+driver assistance and machine auto-guidance
+decision support tools and technologies that improve in real time input, use and nutrient management
+Bioeconomy
+which utilizes agriculture waste and by-products for energy and bio-product generation.
+Examples include, but are not limited to:
+biofuels and digestate production used as bioenergy, soil nutrients and water
+manure management technologies
+agri-based products, such as:
+bioplastics
+biomass-based construction products and car parts
+Eligible activities
+Eligible activities under the R&I Stream are of the following nature and type:
+applied research and development of clean technologies
+piloting and evaluating clean technologies
+demonstration and knowledge and technology transfer activities
+commercializing and scaling up clean technologies
+other activities that support the R&I Stream as determined by the program
+1.3 Eligible applicants
+Eligible applicants are:
+for-profit organizations, including agri-food processors
+not-for-profit organizations, including co-operatives
+Indigenous groups
+Eligible applicants must be legal entities capable of entering into legally binding agreements. Project work and activities must be carried out in Canada.
+Note:
+Ineligible applicants include:
+financial institutions
+academic institutions
+Crown corporations
+federal government
+foreign governments
+individuals
+1.4 Funding and cost-sharing
+Funding type
+Contributions will be:
+non-repayable for research, development and demonstration activities
+repayable
+Footnote
+*
+where activities involve commercialization and scale-up
+Footnote
+Footnote
+*
+* Contributions will be repaid over a period of up to 10 years following project completion. The amount to be repaid and the schedule of payments will be set out in the negotiated Contribution Agreement. Repayments will normally begin 1 year following the completion of the project. Interest is not charged on the contribution funding, with the exception of late payments and debts owed to the Crown, should such situations arise.
+Return to footnote
+*
+referrer
+Funding by project
+The maximum amount payable to a recipient will generally not exceed $2 million per project.
+Funding by recipient
+The maximum amount payable to a recipient with multiple projects will generally not exceed $5 million.
+Cost-sharing
+Eligible project costs will normally be shared as follows:
+A maximum contribution of 50% from the program
+A minimum contribution of 50% from the applicant
+The program may provide a more favourable cost-share ratio (60:40) where the majority of the business (more than 50%) is owned or led by one or more under-represented groups. Under-represented groups include:
+Women
+Youth, aged 35 or under
+Indigenous groups
+Visible minorities
+Persons with disabilities
+Stacking provisions
+The maximum level of total government funding (federal, provincial/territorial, and municipal funding) will generally not exceed 75% of eligible costs per project.
+Applications must clearly indicate all sources of project funding, including the applicant's contribution and other partners' sources of funding. These may include:
+other federal government departments
+provincial/territorial/municipal governments
+industry or partners, such as:
+industry associations and networks
+businesses
+academic institutions
+Indigenous groups
+Example: A project with total eligible costs of $500,000 could be broken down as follows:
+Government funding sources
+Government funding sources
+Amount of funding ($)
+% of total funding
+AAFC requested funding
+250,000
+50
+Provincial government
+125,000
+25
+Total funding
+375,000
+75
+Applicant funding sources
+Applicant funding sources
+Amount of funding ($)
+% of total funding
+Applicant
+90,000
+18
+Industry association
+35,000
+7
+Total funding
+125,000
+25
+Eligible costs
+Payments for eligible project costs will only be made once a
+Contribution Agreement
+is signed.
+The program may allow for eligible costs to be incurred from the date of the submission of a completed application. Costs incurred after the project completion date established by the program will not be eligible for funding.
+Any costs incurred prior to the signing of a
+Contribution Agreement
+will be incurred solely at the applicant's risk without any obligation of payment by the program.
+Eligible costs under the program are the incremental, relevant, reasonable and essential expenses required to carry out the eligible activities to which they relate as specifically set out in the
+Contribution Agreement
+.
+See
+Annex A
+for a list of eligible costs under the Research and Innovation Stream.
+Note:
+In-kind contributions are not eligible under the Agricultural Clean Technology Program.
+1.5 Application process
+There is a 2 step application process to the R&I Stream:
+1. Complete a Project Summary form
+PDF forms
+If you have trouble opening a PDF form, try the following:
+Use your computer.
+The form may not open on mobile devices like phones or tablets.
+Save the PDF
+to your computer in a place where you can easily find it
+Use Adobe Reader (Version 11 or higher)
+to open the file. If it’s not already installed, download
+Adobe Reader 11 or higher
+for free. Adobe has help for
+solving common issues
+If you can't open the form with Adobe Reader 11 or higher,
+contact the program
+.
+How to download and open a PDF form
+Download the file
+Right-click on the link you want to save
+Select "Save link as" or "Download linked file"
+Choose the location on your computer where you would like to save the file
+Select "Save"
+Open the PDF form
+Open Adobe Reader 11 or higher
+Select "File"
+Select "Open"
+Go to the location where you saved the file
+Select the PDF file
+Select "Open"
+The
+Project Summary form (PDF)
+will help to determine your project's eligibility and alignment with the program's criteria and priorities, prior to preparing a project application. This initial step will also facilitate a discussion between you and program staff about the project.
+The
+Project Summary form (PDF)
+will be accepted by e-mail at
+aafc.act-ri-tpa-ri.aac@agr.gc.ca
+, starting June 16, 2021, on a continuous basis until the end of the program on March 31, 2028, or until funding has been fully committed or otherwise announced by the program.
+2. Complete a project application package
+Following the submission of a Project Summary form, you may be invited to submit a Project Application including forms, declarations and supplementary documentation.
+For more information on the application process, refer to
+Annex B: Application process
+.
+2.0 Expected results and reporting
+Applicants will be required to provide project-related financial, progress, and performance reports, or other reports requested at AAFC's discretion. The reports will track progress to advance agricultural clean technologies against mutually agreed performance measures and deliverables, such as the reduction of GHG emissions.
+The frequency of these reports will be determined based on the risk level of the recipient and the project. Requirements for performance indicators and reports will be detailed in the
+Contribution Agreement
+.
+3.0 Assessment criteria
+Your project application will be assessed against the following criteria, as applicable:
+project activities are scientifically sound
+relevance, feasibility and impact of the research on the sector
+research methodology and experimental design
+timelines are realistic to achieve planned results
+the proposed activities, including expected results and outcomes, support program objectives and priorities
+the proposed activities and expenditures are eligible, reasonable and required to meet the project objectives
+the applicant possesses or has access to the qualifications (such as, capability/capacity including the necessary technical, financial and managerial capacities) and track record required to complete the project
+all sources of funding for the project to be supported under the project are identified
+provide evidence to demonstrate that the technology has been tested and is ready for the next stage of commercial development
+demonstrate a market need and demand for the technology
+ability to provide information on results and indicators
+supporting information on the reduction of greenhouse gas emissions and other environmental benefits
+other priority areas addressed
+4.0 Other considerations
+4.1 M-30 Act (Quebec only)
+The Province of Quebec's M-30 legislation may apply to Quebec-based applicants only. It is the
+Act Respecting the Ministère du Conseil exécutif
+(R.S.Q., c. M-30).
+More information on the Act is available online or by contacting the Ministère de l'Agriculture, des Pêcheries et de l'Alimentation (MAPAQ) at
+dpci@mapaq.gouv.qc.ca
+.
+M-30 applies to various types of Quebec organizations, for example, organizations located in Quebec and receiving more than half of their financing from the Government of Quebec may be subject to the Act.
+All Quebec-based organizations will have to address this matter and demonstrate their compliance with the Act during the project assessment process, and prior to entering into a
+Contribution Agreement
+under the R&I Stream.
+4.2 Intellectual property
+All title to intellectual property arising as a result of AAFC's provision of the funding, in whole or in part, shall vest in the Recipient or in a third party, as may be negotiated by the Recipient.
+A grant of license provision may be included in the contribution agreement requiring that the Recipient grant, or ensure that third parties grant (including ultimate recipients, if applicable) a fully paid, non-exclusive, worldwide, perpetual, royalty-free license to the Crown to such material, in whole or in part, in any form or medium, for internal government program administration purposes.
+The Minister may also, at his or her discretion, include a provision in the contribution agreement requiring that the Recipient agrees to make an offer to the department or agency to negotiate, at a later date and on reasonable separate terms, the acquisition of a license for the materials produced as a result of the contribution for purposes that do not constitute internal government program administration purposes of including without limitation research and development, publication purposes.
+4.3 Official languages
+When it is determined that projects under this program involve activities related to the development and transfer of knowledge and may have an impact on official language minority communities (OLMCs), or promote the use of English and French, AAFC will include appropriate linguistic commitments in agreements with the recipient and ensure that additional expenses incurred as a result of these commitments are considered eligible for contribution funding.
+Activities may include, but are not limited to:
+Communications to official language minority communities
+project web pages, project social media account(s), and materials (brochures, kits, handouts, newsletters, reports, etc.) produced and maintained in both official languages
+directional and educational signs produced in both official languages
+project-related advertisement in OLMC media (newspapers, radio, social media)
+bilingual coordinator or other contractor hired to help deliver project-related activities in both official languages (such as, master of ceremony for a project event, workshop facilitator or simultaneous translator)
+distribution of invitations in both official languages
+Outreach to official language minority communities
+1 or more OLMCs are included in the project target groups (such as cash partners in project budget or to be invited to project events)
+other groups representing OLMCs are consulted to see if there is any potential for involvement on their end
+travel to or from OLMCs (costs associated with these project activities included in project budget)
+If funded, recipients may be required to publicly acknowledge AAFC's support for the project. In these cases, AAFC will request that such acknowledgments include text in both official languages.
+4.4 Public announcements
+Applicants consent to public announcements regarding the project. These announcements would include recipients' names, general descriptions of the work undertaken and approximations of the reduction in GHG emissions.
+5.0 After you apply
+Once a project application package has been submitted for consideration, the program's goal is to:
+acknowledge receipt of an application within 2 business days
+verify that all required forms and declarations have been completed with sufficient detail
+identify incomplete applications and provide 15 business days to the applicants to submit the missing information before the application is closed
+assess an application and send an approval or a rejection notification letter within 100 business days of receiving a complete application package
+Please note that even if a project meets all eligibility criteria, the submission of an application creates no obligation on the part of the Minister or of AAFC officials to provide funding for the proposed project. The Minister retains discretion to determine, based on other public policy and public interest considerations, whether an application that meets the criteria identified in this Applicant guide will ultimately receive funding.
+Should your application be approved, you will be invited to enter into a
+Contribution Agreement
+with AAFC.
+6.0 Contact information
+For more information on the R&I Stream, please contact the program at:
+Email:
+aafc.act-ri-tpa-ri.aac@agr.gc.ca
+Telephone: 1-877-246-4682
+Previous-next document navigation - bottom
+Previous
+Next
+Date modified:
+2021-06-16
