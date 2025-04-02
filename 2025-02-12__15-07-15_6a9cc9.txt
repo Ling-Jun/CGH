@@ -8,41 +8,31 @@ Twitter
 Features
 Strengthening border security
 Canada’s response to U.S. tariffs
+Every dollar counts
+Canadian Dental Care Plan
 Buying, selling and supporting Canadian
 Choose Canada
-Every dollar counts
-Celebrate the Month of La Francophonie 2025
-Canadian Dental Care Plan
-Support is available for Veterans
-Monitoring wildfires from space
 Canada’s response to the crisis in Israel, the West Bank and the Gaza Strip
 Canada and Ukraine
 Learn how to spot disinformation
-Shop with confidence
 Strengthening border security
 Canada’s plan to strengthen, secure and efficiently manage our borders
 Canada’s response to U.S. tariffs
 A comprehensive plan to protect and defend Canada’s interests
+Every dollar counts
+Find out if you qualify for benefits, credits and free tax help.
+Canadian Dental Care Plan
+Are you eligible? Applications now expanded.
 Buying, selling and supporting Canadian
 Find information on Made in Canada labels, how to buy Canadian and the benefits of shopping and travelling in Canada.
 Choose Canada
 Canada, it’s time to be our most flag-flying, maple leaf buying, local-adventuring selves.
-Every dollar counts
-Find out if you qualify for benefits, credits and free tax help.
-Celebrate the Month of La Francophonie 2025
-Make the French language shine with all its cultural richness!
-Canadian Dental Care Plan
-Are you eligible? Applications now expanded.
-Support is available for Veterans
-If you served in the Canadian Armed Forces, you are a Veteran. Get support with health, education, finance and career transition.
 Canada’s response to the crisis in Israel, the West Bank and the Gaza Strip
 Learn more about Canada’s response to the crisis in Israel, the West Bank and the Gaza Strip.
 Canada and Ukraine
 Learn about Canada’s response to the Russian invasion of Ukraine.
 Learn how to spot disinformation
 If it raises your eyebrows, it should raise questions. Get tips on how to spot disinformation.
-Shop with confidence
-Learn how to spot deceptive marketing practices
 Filter news
 Use filters to search for the most recent news articles.
 News type
@@ -331,4 +321,4 @@ DATATABLE
 All news products
 Page details
 Date modified:
-2025-03-27
+2025-04-02
