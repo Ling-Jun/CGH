@@ -390,9 +390,9 @@ Coordinated Agriculture Policy Research Initiative
 No
 CAPRI, ICRPA, Indigenous
 Dairy Direct Payment Program
-Open to applications
+Closed to applications
 Compensation for market access commitments made under recent international trade agreements.
-Open
+Closed
 Sector specific programs
 Producer
 Dairy Direct Payment Program
@@ -718,4 +718,4 @@ Find resources and support to stay competitive and be prepared for unforeseen si
 Sustainable Canadian Agricultural Partnership
 An investment to strengthen and grow Canada's agriculture and agri-food sector
 Date modified:
-2025-03-22
+2025-04-02
