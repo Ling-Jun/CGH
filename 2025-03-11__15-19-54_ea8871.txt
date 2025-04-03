@@ -12,19 +12,6 @@ Sector(s)
 Type
 Partner economy(ies)
 Open to
-2025-04-02
-Canada – Germany 2025-26 collaborative industrial research and development call for proposals (NRC IRAP-ZIM Call 15)
-Advanced manufacturing
-Agri-food
-Clean technologies
-Digital industries
-Energy and natural resources
-Health and bio-sciences
-Advanced materials
-Nanotechnology
-Project funding
-Germany
-Small and medium-sized enterprise (SME)
 2025-04-13
 Canadian mining technology co-innovation mission to Brazil – June 2 to 6, 2025
 Advanced manufacturing
@@ -204,6 +191,19 @@ Clean technologies
 Digital industries
 Energy and natural resources
 Health and bio-sciences
+Project funding
+Germany
+Small and medium-sized enterprise (SME)
+2025-04-02
+Canada – Germany 2025-26 collaborative industrial research and development call for proposals (NRC IRAP-ZIM Call 15)
+Advanced manufacturing
+Agri-food
+Clean technologies
+Digital industries
+Energy and natural resources
+Health and bio-sciences
+Advanced materials
+Nanotechnology
 Project funding
 Germany
 Small and medium-sized enterprise (SME)
