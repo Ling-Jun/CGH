@@ -83,103 +83,73 @@ Program Administration
 Responsibilities
 FAQs
 Program Details
-Apply anytime
-Six- to eight-week peer review
-College students can do 3 four-to-six month internships, master’s students can do up to 6 four-to-six month internships, PhD students can do up to 12, and postdocs can do up to 9. While undergraduates, other university students (ex. diploma programs), and recent graduates can do up to 3 four-to-six month internships.
-The
-Mitacs Accelerate Fellowship
-supports longer-term projects for master’s and PhD students
-Internships start at four months
-Interns interact with both their academic supervisor and partner organization during the project
-Submit an exit survey summarizing project results and experiences
-Follow the Accelerate Code of Conduct
-Apply your skills in a non-academic environment
-Broaden your professional network
-Get a stipend/salary starting at $10,000 per four-month period
-Build out your CV with peer-reviewed research
-International collaboration
-options
-available
+About the program
+Mitacs Accelerate creates dynamic collaborations that partner for-profit and not-for-profit organizations with Canada’s brightest academic minds. This research award provides matched funding of $15,000 CAD per four- or six-month internship, where interns will work collaboratively with their academic supervisor and partner organization on a research project.
+The Accelerate program aims to:
+Help businesses optimize their budgets, grow their R&D and tap into the expertise of highly skilled students, graduate students, recent grads and post-docs to solve your research challenges.
+Help students broaden their professional networks, tap into funding opportunities, and gain invaluable hands-on experience at for-profit and not-for-profit partner organizations seeking skilled research talent.
+Help professors build game-changing research partnerships with industry leaders, tap into flexible funding, and help drive the innovation of tomorrow.
 Funding
-If a project has 6 or more internship units with 3 or more interns, it is possible for the partner organization to contribute $6,000 per internship unit instead. This will receive a $13,333 research award with a $10,000 minimum stipend to the intern.
+Our standard funding model requires a partner contribution starting at $7,500 CAD per internship (4 or 6 months) which results in a $15,000 CAD research award. Of this award, the intern must receive a minimum $10,000 CAD stipend or salary.
+Our Postdoctoral researcher funding model requires a contribution of $10,000 CAD per internship (4 months) which results in a $20,000 CAD research award. This funding model is only available to postdoctoral interns.
 Review Mitacs’ previous special Accelerate funding offers
 Eligibility
-Students and postdoctoral fellows at Mitacs partner colleges and universities in Canada. Postdoctoral fellows are eligible if the date of graduation from a PhD program is less than five years to the proposed start date of the project.
-Exceptions are available for
-extenuating circumstances such as parental leave or military service. Fellows must not have been employed full-time at the partner organization prior to applying.
-Recent graduates (must be within two years of graduation at the start of their project), and non-degree students (diploma, certificate, etc) are eligible at the academic institution’s discretion. (Any interested applicants should check with their institution to first determine whether they are able to support other types of university students
+This program requires three core participants: an eligible intern, an eligible academic supervisor and an eligible partner organization.
+Mitacs offerings are available to our Canadian member and participant postsecondary institutions.
+Academic supervisors
+Academic supervisors
+are eligible if they are faculty at a Canadian academic institution who are eligible to hold Tri-Agency funds.
+Partner organizations
+Partner organizations
+can be for-profit
+corporations
+(must receive more than 50% of their funds from non-government sources), eligible not-for-profit corporations, municipalities, or hospitals in Canada.
+For-profit businesses and not-for-profit
+corporations
+operating outside of Canada are eligible as additional partners on projects with a Canadian partner organization.
+Eligibility can be confirmed with a Mitacs Advisor.
+Intern
+An intern
+can be a Canadian citizen, a permanent resident, international student with a student visa, or international postdoctoral fellow with a valid work permit. Interns must be 18 years old or over, and fall into one of the following categories:
+Registered students and postdoctoral fellows
+at Mitacs partner colleges and universities in Canada. Postdoctoral fellows are eligible if the date of graduation from a PhD program is less than five years to the start date of the project. Exceptions are available for extenuating circumstances such as parental leave or military service. Fellows must not have been employed full-time at the partner organization prior to applying.
+Recent graduates
+(must be within two years of graduation at the start of their project), and non-degree students (diploma, certificate, etc) are eligible at the academic institution’s discretion. (Any interested applicants should check with their institution to first determine whether they are able to support other types of university interns
 before
-drafting an application.
-)
-Visiting students and researchers at Canadian academic institutions who are complet
-ing a degree at a university abroad may also be eligible at the discretion of the Canadian institution.
-Interns who meet the criteria above (students, postdoctoral fellows and recent grads) may be Canadian citizens, permanent residents, international students (with a student visa), or international postdoctoral fellows (with a valid work permit). Interns must be 18 years old or over.
-All academic disciplines
-For-profit corporations and eligible not-for-profit corporations, municipalities, and hospitals in Canada
-For-profit businesses
-and not-for-profit corporations
-operating outside of Canada
-are eligible as additional partners on projects with a Canadian partner organization.
-Interns may
-interact remotely with an international partner organization and/or
-travel
-to interact in person.
-Any t
-ravel must be
-in accordance with their Canadian academic institution’s policies on international travel
-.
+drafting an application.)
+Visiting students and researchers
+at Canadian academic institutions who are completing a degree at a university abroad may also be eligible at the discretion of the Canadian institution.
+How many internships can one intern do?
+Postdoctoral fellows can do up to nine (9) four-month internships (up to three (3) years)
+Recent graduates can complete up to three (3) four-month internships within two years of their graduation date
+Interns may not participate in more than internship at the same time.
+Further, all parties must declare any potential
+conflicts of interest
+upon application submission, including:
+An academic supervisor in a position of ownership, employment or influence over operations at the partner organization.
+An intern is in a position of ownership, employment or influence over operations at the partner organization.
+Programs participants with a close family relationship with each other, or with someone in a position of ownership employment or influence at the partner organization.
+Interns may interact remotely with an international partner organization and/or travel to interact in person. Any travel must be in accordance with their Canadian academic institution’s policies.
 How to Apply
-Review the following information when you begin writing your proposal:
-Mitacs Responsible Conduct of Research Policy (to be found under “Mitacs Terms, Conditions & Policies”, including information on eligible research)
-Adjudication criteria (see at the bottom of this page under “Program Administration”)
-Writing Your Proposal guide (under “Application”)
-Other policies if applicable (including Mitacs Indigenous Research Policy, Research Security Plan, etc)
-2
-. Get feedback on the proposal from all participants and your
-Mitacs Advisor
-3
-. Determine the right application process for your project (information below)
+Please note for the 2025-2026 fiscal year, running from April 1, 2025, to March 31, 2026 there is limited funding available for Accelerate and BSI in the provinces of Alberta and Ontario. For questions or concerns, please contact your Mitacs advisor.
+Effective April 1, 2025, the Indigenous Pathways initiative will be reopening for the 2025-2026 fiscal year. As part of the new funding criteria, each partner organization will be limited to 12 Internship Units per submission year. Please contact your Mitacs advisor for questions or concerns.
 For further details and before initiating an Accelerate application in the respective provinces, please contact your
 Mitacs Advisor
-Effective April 1, 2025, the Indigenous Pathways initiative will be reopening for the 2025-2026 fiscal year. As part of the new funding criteria, each partner organization will be limited to 12 Internship Units per submission year. Please contact your Mitacs advisor for questions or concerns.
-Proposals from British Columbia, Yukon, Québec, New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland and Labrador are not subject to restrictions.
-NEW: Accelerate is going digital!
-We are thrilled to announce that Mitacs is launching an online application portal for our Accelerate program. This application portal is a first step towards digitizing our entire application process, by phasing out our paper applications and leveraging digital tools to further enhance your application experience.
-To see if your project is a good fit for the digital process, please review the criteria below. Program outcomes, requirements, and Award values remain the same in each application process.
-To be eligible for the new digital process, your project must:
-Use one, or a combination of the following Award values:
-$10,000 Standard Award (1:1)
-$15,000 Standard Award (1:1)
-$13,333 Cluster Funding (1:1.2)
-(Eligibility: 3 or more unique interns, and a minimum of 6 internship units)
-Not be joint funded.
-Have no known COIs at the point of application.
-Please note the digital option cannot yet accommodate Indigenous Pathways and Masters and PhD Fellowship Award values at this time, or any joint-funded application. We strive to enable these in the digital application as soon as possible. Additional conditions to eligibility may apply.
-Does your project seem like a good fit? Please follow the application steps below, otherwise please follow the steps under “Accelerate (Non-Digital Process)”.
-Steps to apply using the digital process:
-Step 1:
-Click here to download
-the Accelerate application for the digital process.
-Step 2:
-Apply on the
-Accelerate Registration and Application Portal (RAP)
-Accelerate (Non-Digital Process)
-The Accelerate Program is incrementally transitioning to a digital application process. To see if your project is a good fit for the digital process, please review the Accelerate Digital Application Process option above. Program outcomes, requirements, and Award values remain the same in each application process.
-Steps to apply using the non-digital process:
-Step 1:
-Download the Accelerate application for the non-digital process. These can be downloaded in the “Application” section below.
-Step 2:
-Collect all required signatures: intern(s), professor(s), partner contact, and university Office of Research Services or equivalent
-Step 3:
-Email your proposal package to your Mitacs Advisor
-PROPOSAL PACKAGE
-Accelerate proposal (under
-Applications
-). Please note that only the latest version of the Mitacs Accelerate template proposal will be accepted.
-Intern CV located under
-Applications
-(interns may use Mitacs’s optional template)
-Please be sure to include supporting documents as required by your university or province.
+How to apply
+Review the following information when you begin writing your proposal:
+Mitacs Responsible Conduct of Research Policy ( found on “
+Mitacs Terms, Conditions & Policies
+”, including information on eligible research)
+Adjudication criteria (see at the bottom of this page under “Program Administration”)
+Writing Your Proposal guide (under “Application”)
+Mitacs’s other relevant policies (including Mitacs Indigenous Research Policy, Research Security Plan, etc), all findable on “
+Mitacs Terms, Conditions & Policie
+s”.
+2.
+Reach out to one of our Business Development team members to be paired with a
+Mitacs Advisor
+3.
+Determine the right application process for your project (information below)
 Option 1: Our Digital Application Process
 Option 2: Our Non-Digital Process
 In 2024, Mitacs launched a new digital application portal as a first step towards digitizing our entire application process, leveraging digital tools to further enhance your application experience.
@@ -210,10 +180,11 @@ Accelerate proposal (under Applications). Please note that only the latest versi
 Intern CV located under Applications (interns may use Mitacs’s optional template).
 Please be sure to include supporting documents as required by your university or province.
 What happens next
-Peer review of your proposal will take approximately six to eight weeks. Proposals with multiple internships or that require revisions may take longer.
-Partner organizations will receive an invoice (refundable if not approved), so that the intern receives payment when the project begins
-Mitacs will contact all participants with the outcome and applicable instructions.
-Mitacs forwards the Accelerate funds to the academic institution upon receipt of the partner contribution and the proposal’s approval
+Your application will be peer reviewed, which will take approximately six to eight weeks. Proposals with multiple internships or that require revisions may take longer. Please note there is a chance your application will be returned with a request for revisions before it is approved.
+Following submission, partner organizations will receive an invoice (refundable if not approved), so that the intern receives payment when the project begins. Please note this invoice may be received before application approval, and does not guarantee approval.
+Once an outcome is available, Mitacs will contact all participants with the decision and applicable instructions.
+Following formal approval and the receipt of the partner contribution, Mitacs forwards the Accelerate funds to the academic institution to administer the award.
+Please note no work should begin on a project until an Award Letter has been issued and funds have been distributed to the institution.
 Application timeline
 Questions? Consult the
 FAQ
@@ -307,8 +278,17 @@ Program Administration
 Release of funds
 Intellectual property
 Adjudication
-Mitacs invoices a partner organization upon submission of their Accelerate proposal. Upon receipt of the partner’s contribution, Mitacs forwards the research award to the Canadian academic institution. No funds will be released to the academic institution until the invoice has been paid and the proposal is approved. Mitacs has no control over when funds are administered by the academic institution. If you have questions about your Accelerate award after Mitacs has released funds, contact your academic institution’s Office of Research Services (or equivalent).
-Mitacs’ policy is to take no position and claims no intellectual property (IP) from projects it funds. All Mitacs Accelerate participants are bound by the IP terms of the academic institution where the intern is enrolled. IP is left to be shared between the academic institution, its researchers, and the partner organization, according to the IP rules of the academic institution, unless a separate agreement is negotiated.
+Mitacs invoices a partner organization upon submission of their Accelerate proposal. Upon receipt of the partner’s contribution, Mitacs forwards the research award to the Canadian academic institution.
+No funds will be released to the academic institution until the invoice has been paid and the proposal is approved. Mitacs has no control over when funds are administered by the academic institution.
+If you have questions about your Accelerate award after Mitacs has released funds, contact your academic institution’s Office of Research Services (or equivalent).
+Start Date and End Date Policy
+Projects must adhere to the
+Start and End Date Policy
+.
+Projects that exceed the limits stated in the policy will expire and be slated for cancellation. Participants who anticipate exceeding the limits should contact Mitacs with an explanation and request an adjustment to the project timeline.
+All Mitacs-funded projects must adhere to the
+Mitacs Intellectual Property Policy
+.
 The following universities have developed their own IP terms for Mitacs projects:
 Brock University
 Concordia University
@@ -394,6 +374,18 @@ Before You Apply
 When You Apply
 After You Apply
 During Your Internship
+$20k model: Can we do 6-month units for $20k?
+No. The $20k model is designed to enable a higher annual salary for postdocs, comparable with other postdoc funding in Canada, by providing $20k per 4-month internship. If a lower funding amount is desired, use the $15k funding model.
+$20k model: Can we do 6-month units for $20k? Can the 20K units be used for postdocs in Accelerate Entrepreneur, joint applications with NSERC or SSHRC, etc?
+Yes, $20k units will be available for all new postdoc submissions in Accelerate, including eAcc and joint applications.
+$20k model: Can we do 6-month units for $20k? For the $20k postdoc option in Accelerate, can I still allocate $5k to research expenses?
+Yes, for each $20K IU, up to $5k can be allocated to research expenses.
+$20k model: Can we do 6-month units for $20k? I am a postdoc currently on a $15k Accelerate, or I am a professor with a recently approved Accelerate project for a postdoc. Can I change to the $20k funding model
+The $20k funding model in Accelerate is available for PDFs on new applications, but approved internships will not change. The $20k funding model was previously available through Elevate, so it is not a net-new offering, and already-submitted Accelerate applications will not change.
+$20k model: Can we do 6-month units for $20k? I am a recent grad (post-PhD) but not a postdoc, can I access the $20k model?
+No, this funding model is reserved for interns with postdoc status, just as Elevate was.
+$20k model: Can we do 6-month units for $20k? If a postdoc is replaced with a PhD intern (or any other level), can they keep the $20k funding model?
+No. The $20k model will only be available for postdocs. If a postdoc is replaced with another level intern, the budget will need to be changed to the standard $15k Accelerate funding model.
 Are Recent Graduates eligible?
 Recent college and university graduates (any level) are eligible, at the discretion of the academic institution.
 Must have status at a Canadian academic institution
@@ -412,26 +404,11 @@ Can Mitacs allow for virtual interaction with partner organizations and academic
 Direct interaction and supervision by the partner organization for a portion of the internship is a key feature of Mitacs’s Accelerate, BSI and Elevate programs. Prior to the COVID-19 pandemic, Mitacs required that interns spend time on site at the partner organization to benefit from this interaction and supervision. Now that the technology to enable virtual work has greatly improved and many workplaces have hybrid or fully virtual operations, Mitacs will continue to allow interaction with the partner organization in our internship programs to take place virtually as well as in person.
 When writing their application, participants should focus on the nature of the interaction with the partner and plan for high-quality interaction and supervision regardless of whether it takes place in person, virtually or hybrid. Mitacs still encourages on-site interaction at the partner when it is logistically feasible.
 * Note that Globalink are international mobility programs. For this reason, travel and time spent on site with collaborators are still required in these programs.
-Can Mitacs help international students with immigration?
-International students are eligible to participate in Accelerate, however, Mitacs cannot give specific immigration advice. We recommend that international students check with the international office at their academic institution, or contact a registered immigration specialist or consultant for advice.
-How does the funding work?
-Internships are 4–6-month units of a research project, valued at $15K per unit, with $7,500 from both the partner organization and Mitacs, to support post-secondary research projects. Funds flow through the academic institution with a stipend to the student at a minimum of $10K, with up to $5K to support research costs. Please refer to the Funding section for an illustrated explanation.
-If a student is interested in doing an internship, can Mitacs help them find a partner organization?
-Mitacs cannot find partner organizations for individual interns. For tips on finding a partner organization, view the
-Research Partnerships 101 webinar
-, talk to your academic supervisor, or visit the
-Researchers Wanted page.
-Is the financial contribution of the partner organization subject to taxes?
-Please note that the financial contribution of organizations is subject to applicable Goods and Services Tax (GST), Harmonized Sales Tax (HST) and/or Quebec Sales Tax (QST) (Collectively the value added tax or VAT).
-What constitutes a Conflict of Interest?
-Please refer to
-Mitacs Conflict of Interest Policy
-for more details. If there is a conflict of interest, please discuss with your Mitacs Advisor before applying.
-What is needed to apply for Mitacs Accelerate projects?
-In order to apply for Mitacs Accelerate projects, you would need both an academic partner and a non-academic partner (e.g. a partner organization such as a for-profit or not-for-profit corporation) in Canada who would also be benefiting from the research. In addition to a non-academic partner in Canada, your project may optionally include a non-academic partner abroad.
 Load More
 If an Accelerate internship has been approved, when will the funds be available?
 Mitacs forwards Accelerate funds to the student’s academic institution only after it has received the contribution from the student’s partner organization. Please allow two weeks for processing upon receipt of this contribution. Interns travelling to Canada should be aware that their funding may not be available until they arrive in Canada. Mitacs recommends that interns contact their Canadian host institution’s Office of Research Services prior to the project to determine when they can access funds.
+$20k model: Can we do 6-month units for $20k? Can postdocs still use the $15k model or are they required to use the $20k model?
+$20k will be the default for postdocs in Mitacs Plus, but both $20k and $15k will be available.
 Can a student do an Accelerate internship outside of Canada?
 All Accelerate internships must include a partner organization in Canada (for-profit or not-for-profit corporation,
 hospital
