@@ -79,14 +79,14 @@ CTA programs
 Sector
 Location
 Application deadline
-Macao Entertainment Technology
-Digital industries and ICT
-Hong Kong
-March 31, 2025 at 11:59PM PST
 Pacific Alliance cleantech
 Cleantech
 Mexico
 May 23, 2025 at 11:59PM PST
+Macao Entertainment Technology
+Digital industries and ICT
+Hong Kong
+Closed
 Boston tech and life sciences
 Life sciences
 Boston
@@ -238,4 +238,4 @@ For general questions, contact
 cta-atc@international.gc.ca
 Trade commissioners can help you determine if a CTA is right for your business and which one is the best fit for you.
 Date modified:
-2025-03-26
+2025-04-07
