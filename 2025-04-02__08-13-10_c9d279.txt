@@ -31,7 +31,7 @@ Undergraduate
 Graduate
 Technical / Diploma
 Other
-Name
+Comments
 This field is for validation purposes and should be left unchanged.
 Submit
 Program & Eligibility Overview
