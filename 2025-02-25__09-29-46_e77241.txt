@@ -1,24 +1,23 @@
 Utility Support Stream
-Currently accepting proposals from selected EOIs only
+Not currently accepting proposals
 Following a comprehensive review process, a request for full project proposals was launched on February 18, 2025.  The
 Smart Renewables and Electrification Pathways Program
-(SREPs) notified all applicants of their proposal status and selected Expressions of Interest (EOIs) advanced to the full project proposal stage, with a submission deadline of April 2, 2025.
+(SREPs) notified all applicants of their proposal status and selected Expressions of Interest (EOIs) advanced to the full project proposal stage, with a submission deadline of April 2, 2025. Following the submission deadline, the Utility Support Stream (USS) is now evaluating all full project proposals received for the current funding intake.
 Objectives
-The Government of Canada recognizes that Canadian utilities and system operators are working to modernize their grids, better integrate Distributed Energy Resources (DERs) such as utility storage systems and microgrids, and striving to reliably meet the demands of increased electrification at the least cost to ratepayers.
-The Smart Renewables and Electrification Pathways Program’s (SREPs’) Utility Support Stream (USS) supports utilities and system operators in modernizing their systems and integrating renewables while maintaining reliability and affordability. Projects funded under the USS will
-Improve the utilization and efficiency of existing assets
-Increase the reliability, resiliency, and flexibility of the power system
-Increase the integration and use of renewable resources and non-conventional infrastructure solutions
-Generate economic and social benefits and
+The Government of Canada recognizes that Canadian utilities and system operators are working to modernize their grids, better integrate Distributed Energy Resources (DERs), such as utility storage systems and microgrids, and striving to reliably meet the demands of increased electrification at the least cost to ratepayers.
+The SREPs’ USS supports utilities and system operators in modernizing their systems and integrating renewables while maintaining reliability and affordability. Projects funded under the USS will:
+Improve the utilization and efficiency of existing assets;
+Increase the reliability, resiliency, and flexibility of the power system;
+Increase the integration and use of renewable resources and non-conventional infrastructure solutions;
+Generate economic and social benefits; and
 Help accommodate growing demand for clean and affordable electricity.
 Current funding opportunities
-Under this Stream, SREPs is currently accepting proposals from selected EOIs only.
+SREPs is not currently accepting proposals under this Stream.
 Future Funding Opportunities
-Further USS EOIs and requests for proposals will take place over the life of the program and will have specific eligibility criteria, which may vary for each request.
-The SREPs distribution list will be notified when new funding opportunities are launched.
+USS requests for EOIs and requests for proposals will take place over the life of the program and will have specific eligibility criteria, which may vary for each request. New funding opportunities will be announced on this page and will be shared via the SREPs email distribution list.
 Eligible projects
 Projects under the USS must be led by a utility, system operator, or an entity that demonstrates that the project will directly benefit a utility and/or system operator to meet their needs.
-The USS will fund the:
+The USS funds:
 deployment of grid modernization projects; and
 utility pre-development projects.
 Grid modernization deployment projects include upgrades and expansions to transmission and distribution systems, and technology upgrades which increase the future integration of clean electricity generation. USS projects will improve grid reliability, resiliency, and flexibility while improving affordability and enabling greater adoption of renewable energy. Projects can propose technologies as they see fit to meet these goals, but projects must:
@@ -57,4 +56,4 @@ Return to footnote
 1
 referrer
 Date modified:
-2025-03-04
+2025-04-08
