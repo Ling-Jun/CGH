@@ -334,7 +334,7 @@ Sign up for the newsletter
 (optional). As a participant in a Mitacs program, you can receive exclusive updates on job postings, funding and research opportunities, courses, and more.
 Acknowledge all Mitacs-sponsored results, including work by professors, postdocs, other interns, and research associates with the following statement:
 “This work was supported by Mitacs through the Mitacs Accelerate program.”
-Professors
+Academic Supervisors
 Before the project
 During the project
 After the project
@@ -374,17 +374,17 @@ Before You Apply
 When You Apply
 After You Apply
 During Your Internship
+$20k model: Can the 20K units be used for postdocs in Accelerate Entrepreneur, joint applications with NSERC or SSHRC, etc?
+Yes, $20k units will be available for all new postdoc submissions in Accelerate, including eAcc and joint applications.
 $20k model: Can we do 6-month units for $20k?
 No. The $20k model is designed to enable a higher annual salary for postdocs, comparable with other postdoc funding in Canada, by providing $20k per 4-month internship. If a lower funding amount is desired, use the $15k funding model.
-$20k model: Can we do 6-month units for $20k? Can the 20K units be used for postdocs in Accelerate Entrepreneur, joint applications with NSERC or SSHRC, etc?
-Yes, $20k units will be available for all new postdoc submissions in Accelerate, including eAcc and joint applications.
-$20k model: Can we do 6-month units for $20k? For the $20k postdoc option in Accelerate, can I still allocate $5k to research expenses?
+$20k model: For the $20k postdoc option in Accelerate, can I still allocate $5k to research expenses?
 Yes, for each $20K IU, up to $5k can be allocated to research expenses.
-$20k model: Can we do 6-month units for $20k? I am a postdoc currently on a $15k Accelerate, or I am a professor with a recently approved Accelerate project for a postdoc. Can I change to the $20k funding model
+$20k model: I am a postdoc currently on a $15k Accelerate, or I am a professor with a recently approved Accelerate project for a postdoc. Can I change to the $20k funding model?
 The $20k funding model in Accelerate is available for PDFs on new applications, but approved internships will not change. The $20k funding model was previously available through Elevate, so it is not a net-new offering, and already-submitted Accelerate applications will not change.
-$20k model: Can we do 6-month units for $20k? I am a recent grad (post-PhD) but not a postdoc, can I access the $20k model?
+$20k model: I am a recent grad (post-PhD) but not a postdoc, can I access the $20k model?
 No, this funding model is reserved for interns with postdoc status, just as Elevate was.
-$20k model: Can we do 6-month units for $20k? If a postdoc is replaced with a PhD intern (or any other level), can they keep the $20k funding model?
+$20k model: If a postdoc is replaced with a PhD intern (or any other level), can they keep the $20k funding model?
 No. The $20k model will only be available for postdocs. If a postdoc is replaced with another level intern, the budget will need to be changed to the standard $15k Accelerate funding model.
 Are Recent Graduates eligible?
 Recent college and university graduates (any level) are eligible, at the discretion of the academic institution.
@@ -407,7 +407,7 @@ When writing their application, participants should focus on the nature of the i
 Load More
 If an Accelerate internship has been approved, when will the funds be available?
 Mitacs forwards Accelerate funds to the student’s academic institution only after it has received the contribution from the student’s partner organization. Please allow two weeks for processing upon receipt of this contribution. Interns travelling to Canada should be aware that their funding may not be available until they arrive in Canada. Mitacs recommends that interns contact their Canadian host institution’s Office of Research Services prior to the project to determine when they can access funds.
-$20k model: Can we do 6-month units for $20k? Can postdocs still use the $15k model or are they required to use the $20k model?
+$20k model: Can postdocs still use the $15k model or are they required to use the $20k model?
 $20k will be the default for postdocs in Mitacs Plus, but both $20k and $15k will be available.
 Can a student do an Accelerate internship outside of Canada?
 All Accelerate internships must include a partner organization in Canada (for-profit or not-for-profit corporation,
