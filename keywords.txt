@@ -1,19 +1,32 @@
-clean
+clean or cleantech or technology
 open
 closed
 update
-new
+new or change
 deadline
-eligibility
+eligibility or eligible
 available
 accepting
 engaging
-over-subscribed
-webinar
-session
-announcement
-notice
+over-subscribed or full
+webinar or session or event
+announcement or notice
 extended
 changes
 alert
 important
+is the opportunity open
+is the opportunity closed
+is there an update
+is there a change or notice or announcement
+what is new or different
+has the deadline or application date passed
+has the deadline or application date changed or been extended
+are we passed the date
+did the date change
+is the date or deadline new
+did the eligibility change
+is the opportunity accepting applications
+is the opportunity over-subscribed or full
+is the opportunity no longer accepting applications
+is there a new event or webinar or session
