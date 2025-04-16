@@ -4,9 +4,10 @@ Sign in to your AAFC account
 Most requested
 Canadian Agricultural Loans Act Program
 AgriInvest
-Dairy Direct Payment Program
-AgriInnovate
 AgriStability
+AgriInnovate
+Advance Payments program
+AgriMarketing
 Search all programs and services
 Filter by audience, topic or search by keyword
 Filter your results
@@ -718,4 +719,4 @@ Find resources and support to stay competitive and be prepared for unforeseen si
 Sustainable Canadian Agricultural Partnership
 An investment to strengthen and grow Canada's agriculture and agri-food sector
 Date modified:
-2025-04-10
+2025-04-15
