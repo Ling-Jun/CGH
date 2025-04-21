@@ -132,6 +132,7 @@ View profile
 Portfolio
 All industry sectors
 Advanced materials
+Biotechnology
 Cleantech
 Construction Tech
 Energy
@@ -141,12 +142,12 @@ alterBiota
 Ayrton Energy
 CabriCrete
 Carbon Upcycling
+CarbonRun
 CO280
 Cyclic Materials
 Deep Sky
+DeNova
 Genecis Bioindustries
 GIT Coatings
 Green Graphite Technologies
-Miru Smart Technologies
-Planetary
 View more
