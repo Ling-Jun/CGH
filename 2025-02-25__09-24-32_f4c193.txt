@@ -401,7 +401,7 @@ Can I hold both an Accelerate and other grants at the same time?
 Mitacs does not have any restrictions on its recipients holding other grants.
 You are responsible to determine if your other grants have such restrictions prior to applying to Accelerate.
 Can Mitacs allow for virtual interaction with partner organizations and academic institutions?
-Direct interaction and supervision by the partner organization for a portion of the internship is a key feature of Mitacs’s Accelerate, BSI and Elevate programs. Prior to the COVID-19 pandemic, Mitacs required that interns spend time on site at the partner organization to benefit from this interaction and supervision. Now that the technology to enable virtual work has greatly improved and many workplaces have hybrid or fully virtual operations, Mitacs will continue to allow interaction with the partner organization in our internship programs to take place virtually as well as in person.
+Direct interaction and supervision by the partner organization for a portion of the internship is a key feature of Mitacs’s Accelerate and BSI programs. Prior to the COVID-19 pandemic, Mitacs required that interns spend time on site at the partner organization to benefit from this interaction and supervision. Now that the technology to enable virtual work has greatly improved and many workplaces have hybrid or fully virtual operations, Mitacs will continue to allow interaction with the partner organization in our internship programs to take place virtually as well as in person.
 When writing their application, participants should focus on the nature of the interaction with the partner and plan for high-quality interaction and supervision regardless of whether it takes place in person, virtually or hybrid. Mitacs still encourages on-site interaction at the partner when it is logistically feasible.
 * Note that Globalink are international mobility programs. For this reason, travel and time spent on site with collaborators are still required in these programs.
 Load More
@@ -434,7 +434,7 @@ Any funds remaining after a cancelled internship must be returned to Mitacs. For
 What if it’s been more than 30 days and the invitation for the Exit Survey has not been received?
 Participants should check their spam or junk folder. If they still haven’t received it, they should contact evaluation@mitacs.ca.
 What is the Mid-Term survey?
-The Mid-Term surveys are mid-term checks that are sent to Accelerate Interns & the partner organizations at the midpoint of each internship unit on the project, to check-in and ensure that the internship started as originally proposed, to address any issues, and to offer an opportunity for stakeholders to provide feedback to the Accelerate team during the internship.
+The Mid-Term surveys are mid-term checks that are sent to Accelerate Interns at the midpoint of each internship unit on the project, to check-in and ensure that the internship started as originally proposed, to address any issues, and to offer an opportunity for stakeholders to provide feedback to the Accelerate team during the internship.
 When will the link to complete the Exit Survey be provided?
 Participants should receive an invitation within the 30 days following the completion of their internship/fellowship.
 Join a thriving innovation ecosystem
