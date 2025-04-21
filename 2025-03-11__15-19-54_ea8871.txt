@@ -12,26 +12,6 @@ Sector(s)
 Type
 Partner economy(ies)
 Open to
-2025-04-13
-Canadian mining technology co-innovation mission to Brazil – June 2 to 6, 2025
-Advanced manufacturing
-Clean technologies
-Digital industries
-Energy and natural resources
-Advanced materials
-Partnering mission
-Brazil
-Small and medium-sized enterprise (SME)
-2025-04-13
-Canadian ocean observation technology co-innovation mission France
-Advanced manufacturing
-Clean technologies
-Digital industries
-Energy and natural resources
-Advanced materials
-Partnering mission
-France
-Small and medium-sized enterprise (SME)
 2025-04-25
 CELTIC-NEXT Next Generation Communications Spring 2025 call for proposals
 Digital industries
@@ -1014,12 +994,32 @@ Health and bio-sciences
 Partnering mission
 Germany
 Small and medium-sized enterprise (SME)
+2025-04-13
+Canadian mining technology co-innovation mission to Brazil – June 2 to 6, 2025
+Advanced manufacturing
+Clean technologies
+Digital industries
+Energy and natural resources
+Advanced materials
+Partnering mission
+Brazil
+Small and medium-sized enterprise (SME)
 2019-06-20
 Canadian mission to Brazil in nanotechnology with applications in biotechnology, medicine, pharmaceutical and cosmetics – September 23 to 27, 2019
 Digital industries
 Health and bio-sciences
 Partnering mission
 Brazil
+Small and medium-sized enterprise (SME)
+2025-04-13
+Canadian ocean observation technology co-innovation mission France
+Advanced manufacturing
+Clean technologies
+Digital industries
+Energy and natural resources
+Advanced materials
+Partnering mission
+France
 Small and medium-sized enterprise (SME)
 2021-12-07
 Canadian Ocean Technology (Blue Economy) R&D Partnering Mission to Germany – February 14-18, 2022
