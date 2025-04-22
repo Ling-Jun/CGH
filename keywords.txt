@@ -1,5 +1,5 @@
 clean or cleantech or technology
-open
+is the program open
 closed
 update
 new or change
